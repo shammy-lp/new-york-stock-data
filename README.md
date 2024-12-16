@@ -1,4 +1,4 @@
-# new-york-stock-data
+# New-York-Stock-Data
 This project demonstrates my work in managing and analyzing financial data using SQL and Pandas, with a focus on SQLite databases and Excel file integration. The following key tasks were accomplished:
 
 1. **Database Creation and File Integration**:
